@@ -1,7 +1,8 @@
 # Mobile-app-QUA
 - Link driver : https://drive.google.com/file/d/1zNA75z6vbLmH8Ifo78FI0IGo06yr76m-/view?usp=sharing 
-- Lnik trên bao gồm 2 file gồm file Client_code dùng ngôn ngữ Java dùng bên android và file ServerDoAnAndroid dùng ngôn ngữ Node.js bên backend.
-
+- Link trên bao gồm 2 file gồm file Client_code dùng ngôn ngữ Java dùng bên android và file ServerDoAnAndroid dùng ngôn ngữ Node.js bên backend.
+- Link video cách setup: https://drive.google.com/file/d/1d2ob96Eh2OuCUAKrzpGmKohL-1HSCdOm/view?usp=sharing
+- Link video demo: https://drive.google.com/file/d/1yhcI5UJmZCiHLcmHs5ZACzWfU5F5dcIW/view?usp=sharing
 # Features:
 App to do list gồm các chức năng chính như sau:
 - Tạo công việc
